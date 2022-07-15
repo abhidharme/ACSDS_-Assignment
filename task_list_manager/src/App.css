@@ -1,0 +1,22 @@
+#task_com{
+  text-decoration: line-through;
+}
+#cross{
+  border: 1px solid black;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.border{
+border: 2px solid black;
+border-radius: 5px;
+width: 20%;
+
+}
+
+.App{
+  margin: auto;
+}
+#dash{
+border: 2px solid black;
+  border-style: dashed;
+}
